@@ -1,2 +1,2 @@
-# Advanced_Web_Tech_Coursework
-sandpit for my project
+# Digital Storytelling Project
+sandpit for our project
