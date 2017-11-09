@@ -6,6 +6,11 @@ body {
   margin:auto;
   width:980px;
 }
+.button {
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+}
 .text {
   margin-top: 10px;
   margin-bottom: 10px;
