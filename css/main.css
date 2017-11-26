@@ -6,13 +6,15 @@ body {
   margin:auto;
   width:980px;
 }
+.playout {
+  height: 600px;
+}
 .button {
   cursor:pointer;
   color: #1d1925;
 }
 .pnumberR {
   text-align: right;
-  vertical-align:bottom; 
 }
 .pnumberL {
   text-align: left;

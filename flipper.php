@@ -14,7 +14,7 @@
 	</div>
 	<div>
 		<div id="authors" class="row">
-			<div class="col">
+			<div class="col playout">
 				<h1>Cowboy Story</h1>
 				<h3> </h3>
 				<h5><b>Created by:</b></h5>
@@ -28,7 +28,7 @@
 	</div>
 	<div>
 		<div id="authors" class="row">
-			<div class="col">
+			<div class="col playout">
 				<h3></h3>
 				<h4></h4>
 			</div>
@@ -36,7 +36,7 @@
 	</div>
 	<div>
 		<div id="authors" class="row">
-			<div class="col">
+			<div class="col playout">
 				<h3>Edinburgh Napier University</h3>
 				<h4>27 November 2017</h4>
 			</div>
@@ -44,7 +44,7 @@
 	</div>
 	<div>
 		<div id="authors" class="row">
-			<div class="col">
+			<div class="col playout">
 				<h3></h3>
 				<h4></h4>
 			</div>
@@ -54,7 +54,7 @@
 
 	<div>
 		<div id="p1" class="row text">
-			<div class="col">
+			<div class="col playout">
 					<h5>
 						A cowboy came trotting through the vast desert on as he longed to
 						reach the next town. His journey had been long and dusty but with his
@@ -62,8 +62,11 @@
 						 its holster he knew he was prepared for anything. As he travelled
 						 on he noticed a figure standing in the distance.
 					</h5>
+					<div class="row">
+						<img src="img/draw/1.jpg" class="img img-responsive"/>
+					</div>
 			</div>
-			
+
 			<div class="pnumberR">
 				<h6>1</h6>
 			</div>
@@ -71,7 +74,10 @@
 	</div>
 	<div>
 		<div id="p2" class="row text">
-			<div class="col">
+			<div class="col playout">
+				<div class="row">
+					<img src="img/draw/4.jpg" class="img img-responsive"/>
+				</div>
 				<h5>
 					Upon closer inspection he noticed an old Indian chief standing next
 					to a mine. “Oh great cowboy, how happy I am to see you” cried the
@@ -89,14 +95,17 @@
 			</div>
 
 			<div class="pnumberL">
-				<h6>1</h6>
+				<h6>2</h6>
 			</div>
 		</div>
 	</div>
 
 	<div>
 		<div id="p3" class="row text">
-			<div class="col">
+			<div class="col playout">
+				<div class="row">
+					<img src="img/draw/3.jpg" class="img img-responsive"/>
+				</div>
 					<h5>
 						As the cowboy entered the mine he could hear the wind howling
 						(wind noise) behind him, pushing him deeper and deeper. Soon the
@@ -114,6 +123,9 @@
 						to empty all the copper out of his pockets (jingle noise) and then the
 						 cowboy shovelled as much silver as he could in his boots and pockets.
 					</h5>
+			</div>
+			<div class="pnumberR">
+				<h6>2</h6>
 			</div>
 		</div>
 	</div>
@@ -133,6 +145,12 @@
 						and worn bongo drum. The cowboy quickly grabbed it before rushing for
 						 the exit of the mine, jingling all the way (jingle noise).
 					</h5>
+					<div class="row">
+						<img src="img/draw/2.jpg" class="img img-responsive"/>
+					</div>
+			</div>
+			<div class="pnumberL">
+				<h6>2</h6>
 			</div>
 		</div>
 	</div>
@@ -154,12 +172,21 @@
 					the body of the Indian before strapping the drum onto his horse and
 					trotting off into the sunset (horse noise).
 				</h5>
+				<div class="row">
+					<img src="img/draw/7.jpg" class="img img-responsive"/>
+				</div>
+			</div>
+			<div class="pnumberR">
+				<h6>2</h6>
 			</div>
 		</div>
 	</div>
 	<div>
 		<div id="p6" class="row text">
 			<div class="col">
+				<div class="row">
+					<img src="img/draw/5.jpg" class="img img-responsive"/>
+				</div>
 				<h5>
 					As the cowboy entered town he noticed the saloon bar was offering a
 					room to rent. He tied up his horse and walked towards the entrance,
@@ -269,10 +296,10 @@
 
 	<div>
 		<div id="p11" class="row text">
-			<div class="col col-lg-4 col-md-4 col-sm-4">
-				<img src="img/cowboy.jpg" class="img img-responsive"/>
-			</div>
-			<div class="col col-lg-8 col-md-8 col-sm-8">
+			<div class="col">
+				<div class="row">
+					<img src="img/draw/6.jpg" class="img img-responsive"/>
+				</div>
 			 <h5>As the night continued on the cowboy started to become more and
 				 more worried about how he was going to escape from his impending
 				 death. Then he realised what he needed to do and asked the guard to
@@ -286,9 +313,6 @@
 	</div>
 
 	<div>
-		<div id="p12" class="col col-lg-12 col-md-12">
-			<img src="img/cowboy3.jpg" class="img img-responsive image"/>
-		</div>
 		<div class="row text">
 			 <h5>As the sun started to rise the sheriff marched into the jail and
 				 threw a bucket of water over the sleeping cowboy, shouting “your
@@ -298,10 +322,13 @@
 					grant a dying man’s last wish. “Very well” he mumbled, while handing
 					the drum to the cowboy. The cowboy’s eyes lit up as he started to
 					drum, faster and faster to summon forth all three hyenas (hyena noise).</h5>
+					<div class="row">
+						<img src="img/draw/8.jpg" class="img img-responsive"/>
+					</div>
 		 </div>
 	</div>
 	<div>
-		<div id="p11" class="row text">
+		<div id="p13" class="row text">
 			 <h5>
 				 “Attack!” he screeched as he pointed towards the sheriff and his
 				 guards. The hyenas leapt forward and tore the sheriff and his guards
@@ -316,6 +343,11 @@
 		<div class="col col-lg-12 col-md-12">
 				<img src="img/giphy.webp" class="img img-responsive image"/>
 		</div>
+	</div>
+	<div>
+		<div id="p11" class="row text">
+			 <h1>THE END</h1>
+		 </div>
 	</div>
 		<div class="hard"></div>
 		<div class="hard"></div>
