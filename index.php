@@ -5,6 +5,8 @@
   <title>Interactive book</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Interactive book">
+  <link href="https://fonts.googleapis.com/css?family=Ultra" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rye" rel="stylesheet">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
   <script src="js/jquery-1.10.1.min"></script>

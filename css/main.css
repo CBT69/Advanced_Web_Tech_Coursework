@@ -2,16 +2,24 @@ body {
   font-family: "Trebuchet MS", "Lucida Grande", Arial, Helvetica, sans-serif;
   background-image: url(../img/wood.png);
 }
+
+.textwest {
+  font-family: 'Ultra', serif;
+}
+.textwest2 {
+  font-family: 'Rye', cursive;
+}
+
 #cover{
   margin:auto;
   width:980px;
 }
 .playout {
-  height: 600px;
+  height: 620px;
 }
 .button {
   cursor:pointer;
-  color: #1d1925;
+  color: #333;
 }
 .pnumberR {
   text-align: right;
@@ -107,6 +115,7 @@ a:hover{
   align-items: center;
   vertical-align: middle;
   text-align: center;
+  margin: 0 auto;
 }
 .shade {
   text-shadow: 5px 5px 5px #696666;
@@ -121,4 +130,5 @@ a:hover{
 
 #content {
   height: 90vh;
+  padding-top: 15px;
 }
