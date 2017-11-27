@@ -1,6 +1,6 @@
 body {
   font-family: "Trebuchet MS", "Lucida Grande", Arial, Helvetica, sans-serif;
-  background-image: url(../img/wood.png);
+  background-image: url(../img/bg5.jpg);
 }
 
 .textwest {
@@ -8,6 +8,11 @@ body {
 }
 .textwest2 {
   font-family: 'Rye', cursive;
+}
+
+.covertext {
+  color: #d6de45;
+  text-shadow: 5px 5px 5px #160f0f;
 }
 
 #cover{
@@ -52,7 +57,6 @@ a:hover{
     width:980px;
     height:720px;
     background: #fefdf2;
-    background-image: url(../img/paper.png);
     line-height:720px;
     font-size:20px;
     text-align:center;

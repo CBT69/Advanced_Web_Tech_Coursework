@@ -24,10 +24,15 @@
     </div>
 <!-- CONTENT      -->
     <div id="content" class="row" >
+      <audio id="themeaudio" src="./audio/bensound-countryboy.mp3" autoplay="autoplay" loop="loop"></audio>
       <div id="cover" class="cotainer">
         <?php include 'flipper.php'; ?>
       </div>
     </div>
   </div>
 </body>
+<script>
+var vol = document.getElementById("themeaudio");
+vol.volume = 0.15;
+</script>
 </html>
