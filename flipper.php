@@ -9,9 +9,9 @@
 <div id="flipbook" class="center">
 	<!--    Book cover  -->
 	<div class="hard textwest2" >
-		<h1 style="font-size: 1.6em; padding-top:20%;">The</h1>
-		<h1 style="font-size: 1.6em;">Cowboy</h1>
-		<h1 style="font-size: 1.6em;">Story</h1>
+		<h1 style="font-size: 1.5em; padding-top:20%;">The</h1>
+		<h1 style="font-size: 1.5em;">Cowboy</h1>
+		<h1 style="font-size: 1.5em;">Story</h1>
 	</div>
 	<div class="hard">
 	</div>
@@ -57,8 +57,12 @@
 	<div>
 		<div id="p0" class="row text">
 			<div class="col playout">
-				<h3></h3>
-				<h4></h4>
+				<h1></h1>
+				<h3>Long time ago,</h3>
+				<h4>on a trail in the middle of nowhere...</h4>
+				<div class="col">
+					<img class="img img-responsive" src="img\western.gif"/>
+				</div>
 			</div>
 		</div>
 	</div>
