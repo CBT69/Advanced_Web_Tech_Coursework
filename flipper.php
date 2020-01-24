@@ -40,13 +40,13 @@
 			<div class="col playout">
 				<h5><b>Created by:</b></h5>
 				<h3></h3>
-				<h4><b>Antony Becirspahic</b></h4>
+				<h4><b>Antony</b></h4>
 				<h6>Audio recording and edit</h6>
-				<h4><b>Max Laird</b></h4>
+				<h4><b>Max</b></h4>
 				<h6>Script</h6>
-				<h4><b>Ryan Feely</b></h4>
+				<h4><b>Ryan</b></h4>
 				<h6>Illustrations</h6>
-				<h4><b>Krzysztof Luc</b></h4>
+				<h4><b>Krzis</b></h4>
 				<h6>Website design and development</h6>
 			</div>
 		</div>
